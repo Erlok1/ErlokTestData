@@ -1,0 +1,175 @@
+{
+  "justificaciones": [
+    {
+      "id": "155b",
+      "asignatura": "Calidad de software - 010V",
+      "descrip": "",
+      "fecha": "2024-10-24T01:46:00",
+      "profesor": "JORGE LEOPOLDO GUZMAN BOZO"
+    },
+    {
+      "id": "65e7",
+      "asignatura": "Aplicaciones Móviles - 011V",
+      "descrip": "j",
+      "fecha": "2024-11-21T03:00:00",
+      "profesor": "VIVIANA SOLEDAD POBLETE LOPEZ"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "f9dc",
+      "username": "Illojuan",
+      "rut": "",
+      "email": "illojuan@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "7365",
+      "username": "martin",
+      "rut": "",
+      "email": "martin@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "dee4",
+      "username": "Claudio",
+      "rut": "",
+      "email": "claudio@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "ddcb",
+      "username": "asdasd",
+      "rut": "",
+      "email": "asd@duoc.cl",
+      "password": "sher1234",
+      "isactive": true
+    },
+    {
+      "id": "ef68",
+      "username": "Valentina",
+      "rut": "",
+      "email": "vale@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "1322",
+      "username": "Angel O",
+      "rut": "375841279",
+      "email": "angel@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "7075",
+      "username": "Julia J",
+      "rut": "123832478",
+      "email": "julia@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "e5a3",
+      "username": "Pato jara",
+      "rut": "201631289",
+      "email": "pato@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "61f6",
+      "rut": "999999",
+      "username": "dicaprio",
+      "email": "dica@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true,
+      "avatar": ""
+    },
+    {
+      "id": "a218",
+      "username": "Test123",
+      "rut": "121212",
+      "email": "test123@duoc.cl",
+      "password": "Sher1234",
+      "isactive": true
+    },
+    {
+      "id": "dae2",
+      "nombre": "martin ",
+      "email": "martin@duoc.cl",
+      "password": "Sher1234"
+    }
+  ],
+  "clases": [
+    {
+      "id": "101",
+      "nombre": "Programación de aplicaciones móviles",
+      "seccion": "010V",
+      "horario": "Martes y Jueves 19:00 - 22:30",
+      "profesor": "Viviana Soledad Poblete Lopez",
+      "sala": "Torre: 2 - Piso: 2 - Sala: 208",
+      "imagen": "assets/moviles.jpg"
+    },
+    {
+      "id": "102",
+      "nombre": "Calidad de software",
+      "seccion": "011V",
+      "horario": "Lunes y Miercoles 19:00 - 22:30",
+      "profesor": "Jorge Leopoldo Guzman Bozo",
+      "sala": "Torre: 2 - Piso: 2 - Sala: 209",
+      "imagen": "assets/calidad.jpg"
+    },
+    {
+      "id": "103",
+      "nombre": "Matematica Aplicada",
+      "seccion": "012V",
+      "horario": "Viernes 19:00 - 22:30 y Sabado 08:30 - 10:00",
+      "profesor": "Camilo Bastian Flores Arratia",
+      "sala": "Torre: 3 - Piso: 2 - Sala: 224",
+      "imagen": "assets/mates.jpg"
+    }
+  ],
+  "clasesRegistradas": [
+    {
+      "id": 1733220492874,
+      "nombre": "Calidad de software",
+      "seccion": "011V",
+      "horario": "Lunes y Miercoles 19:00 - 22:30",
+      "profesor": "Jorge Leopoldo Guzman Bozo",
+      "sala": "Torre: 2 - Piso: 2 - Sala: 209",
+      "isactive": true,
+      "imagen": "assets/calidad.jpg",
+      "rutm": "201631289",
+      "correo": "pato@duoc.cl"
+    },
+    {
+      "id": 1733222351109,
+      "nombre": "Programación de aplicaciones móviles",
+      "seccion": "010V",
+      "horario": "Martes y Jueves 19:00 - 22:30",
+      "profesor": "Viviana Soledad Poblete Lopez",
+      "sala": "Torre: 2 - Piso: 2 - Sala: 208",
+      "isactive": true,
+      "imagen": "assets/moviles.jpg",
+      "rutm": "201631289",
+      "correo": "pato@duoc.cl"
+    },
+    {
+      "id": 1733222464746,
+      "nombre": "Matematica Aplicada",
+      "seccion": "012V",
+      "horario": "Viernes 19:00 - 22:30 y Sabado 08:30 - 10:00",
+      "profesor": "Camilo Bastian Flores Arratia",
+      "sala": "Torre: 3 - Piso: 2 - Sala: 224",
+      "isactive": true,
+      "imagen": "assets/mates.jpg",
+      "rutm": "201631289",
+      "correo": "pato@duoc.cl"
+    }
+  ],
+  "justificacionesdos": []
+}
